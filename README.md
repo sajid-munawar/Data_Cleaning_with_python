@@ -1,8 +1,8 @@
-# Data_Cleaning_with_python
+# Data_Cleaning_with_python <br />
 
-**Standardisation**
-**Syntax Errors **
-**Irrelevant Data**
-**Duplicates**
-**Missing Data**
+**Standardisation** <br />
+**Syntax Errors** <br />
+**Irrelevant Data**<br />
+**Duplicates**<br />
+**Missing Data**<br />
 **Outliers**
