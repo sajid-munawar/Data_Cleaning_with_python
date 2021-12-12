@@ -1,8 +1,9 @@
 # Data_Cleaning_with_python <br />
-##uploading a csv file into colab and converting it into dataframe
 
-```from google.colab import files
-uploaded=files.upload()
+## uploading a csv file into colab and converting it into dataframe
+
+``` from google.colab import files
+    uploaded=files.upload()
 df2 = pd.read_csv(io.BytesIO(uploaded['File_name.csv'])) ```
 
 **Standardisation** <br />
