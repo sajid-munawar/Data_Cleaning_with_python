@@ -2,7 +2,8 @@
 
 ## uploading a csv file into colab and converting it into dataframe
 
-``` import pandas as pd
+``` 
+    import pandas as pd
     import io
     from google.colab import files
     uploaded=files.upload()
